@@ -84,8 +84,7 @@ try:
     genai.configure(api_key=st.secrets["GEMINI_API_KEY"])
 
     # FIXED: Using the 3.1-flash-lite model confirmed in your 2026 environment
-    gemini_model = genai.GenerativeModel("models/gemini-3.1-flash-lite")
-
+    gemini_model = genai.GenerativeModel("gemini-1.5-flash")
     user_question = st.text_input("Ask a question about your data or model results")
 
     if user_question:
