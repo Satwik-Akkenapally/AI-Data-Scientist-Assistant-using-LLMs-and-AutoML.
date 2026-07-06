@@ -1,3 +1,29 @@
+## Project Workflow
+
+Dataset
+↓
+
+Preprocessing
+
+↓
+
+Model Training
+
+↓
+
+Best Model Selection
+
+↓
+
+Prediction
+
+↓
+
+Feature Importance
+
+↓
+
+AI Assistant (Gemini API)
 # AI-Data-Scientist-Assistant-using-LLMs-and-AutoML.
 
 ## Dataset Upload
