@@ -6,5 +6,5 @@ matplotlib
 seaborn
 plotly
 joblib
-google-generativeai
+google-genai
 xgboost
