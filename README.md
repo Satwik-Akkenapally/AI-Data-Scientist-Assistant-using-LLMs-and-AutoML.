@@ -2,13 +2,13 @@
 
 ## Dataset Upload
 
-![Dataset Upload](screenshots/dataset_upload.png)
+![Dataset Upload](screenshots/Dataset Upload.png)
 
 ---
 
 ## Feature Importance
 
-![Feature Importance](screenshots/feature_importance.png)
+![Feature Importance](screenshots/feature importance.png)
 
 ---
 
@@ -22,8 +22,26 @@
 
 ![Output](screenshots/output.png)
 
----
+
+
+
+
 
 ## AI Assistant
 
 ![AI Assistant](screenshots/ai_assistant.png)
+
+## Technologies Used
+
+- Python
+- Streamlit
+- Scikit-Learn
+- XGBoost
+- Random Forest
+- Pandas
+- NumPy
+- Plotly
+- Google Gemini API
+
+---
+
